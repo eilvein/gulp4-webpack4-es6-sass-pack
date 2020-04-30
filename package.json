@@ -17,7 +17,7 @@
     "author": "Eilvein",
     "license": "ISC",
     "devDependencies": {
-        "jquery": ">=2.1",
+        "jquery": ">=3.5",
         "webpack": "^4.41.2",
         "webpack-merge": "^4.2.2",
         "webpack-stream": "^5.2.1"
